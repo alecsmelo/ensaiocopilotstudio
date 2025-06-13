@@ -13,3 +13,9 @@ Por fim, o terceiro agente, denominado Agente, foi criado como um ambiente de te
 Esses três agentes demonstram a flexibilidade do Copilot Studio, permitindo a criação de assistentes inteligentes adaptados a diferentes cenários e necessidades. </p>
 
 _____
+
+## ⚙️Tela do gerenciador de Agentes do Copilot Studio
+
+![Copilot Studio](img/teladashcopilotcomexemplos.png)
+
+
